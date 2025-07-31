@@ -1,3 +1,5 @@
+// Hackathon Assignment
+
 # 🌿 Nirvaa
 
 **Nirvaa** is a beautifully crafted mental health companion web app focused on self-care, emotional tracking, daily check-ins, and personal growth. Designed to help users improve mental well-being through mood tracking, mindful activities, and peer support — all in a calming and user-friendly interface.
